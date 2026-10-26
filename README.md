@@ -1,8 +1,3 @@
-# POO: Motor 2D y Simulación de Disparos
-
-Ejemplo de programación orientada a objetos en JavaScript: herencia, polimorfismo y composición, con un diseño modular.
-
-## Estructura
 
 ```
 poo-motor-2d/
@@ -19,12 +14,5 @@ poo-motor-2d/
 │   └── main.js
 ├── UML.md
 └── README.md
-```
-
-## Cómo ejecutarlo
-
-Abrir `index.html` en el navegador. No necesita instalación.
-
-## Diagrama UML
 
 Ver [UML.md](UML.md).
